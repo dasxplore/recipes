@@ -52,7 +52,7 @@ A quick & tasty recipe of eggplant (Brinjal) with potato and peanut masala. Enjo
 
 * Cut the onion into really tiny pieces i.e. chopping.
 
-* Cut the onion into small pieces. You can go for really smaller pieces.
+* Cut the tomato into small pieces. You can go for really smaller pieces.
 
 ### Make a Paste
 Take the roasted peanuts and the poppy-seeds into a mixer grinder, add a little quantity of water. Simple mix well to make a creamy paste.
@@ -61,11 +61,13 @@ Take the roasted peanuts and the poppy-seeds into a mixer grinder, add a little 
 
 * First fry the potatos in oil about 50% and take them out in a pot.
 
-* Then fry the brinjal pieces. You can add a pinch of salt here. You need take them out into a pot before they get mashed as eggplant / brinjal is really soft veg.
+* Then fry the brinjal pieces. You can add a pinch of salt here. You need to take them out into a pot before they get mashed as eggplant / brinjal is really soft veg.
 
 ### Making the full dish
 
-* If you have any oil left on your pan you can then add the onions or you need to add little oil, heat a little and put your chooped onions. Make it little brown.
+* If you have any oil left on your pan you can then add a dry red chilli and some black cumin. If you run out of oil, add some, heat it a bit then add the black cumin and red chilly.
+
+* Then put your chooped onions. Make it little brown.
 
 * Then add the ginger, garlic, green chilli paste, mix well.
 
