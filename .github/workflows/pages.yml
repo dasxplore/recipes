@@ -1,0 +1,50 @@
+# This will upload codes (C/D) for DasXplore Recipes
+
+name: 'Zensical to build the Recipes'
+
+on:
+
+  push:
+    branches:
+      - 'main'
+    paths:
+      - 'recipes/**'
+
+concurrency: ${{ github.repository }}
+
+jobs:
+  zensical_build:
+    name: 'Build the Recipes site : Job'
+    runs-on: 'ubuntu-latest'
+
+
+    steps:
+
+      - name: GIT Checkout
+        id: 'git-checkout'
+        uses: "actions/checkout@v4"
+
+      - name: Zensical Build
+        id: 'zensical-build'
+        run: |
+          cd ./recipes
+          python -m venv .venv
+          source .venv/bin/activate
+          pip install zensical
+          zensical build
+          cd ./site
+          cp index.html error.html
+          ls -lah
+          deactivate
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./site
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5
