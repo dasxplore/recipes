@@ -10,7 +10,15 @@ on:
     paths:
       - 'recipes/**'
 
-concurrency: ${{ github.repository }}
+# Top-level permissions
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
 
 jobs:
   zensical_build:
