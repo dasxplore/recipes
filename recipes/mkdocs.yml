@@ -1,0 +1,78 @@
+# Site informations
+site_name: DasXplore Recipes
+site_url: https://recipes.dasxplore.com
+
+# The theme
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.footer
+    - content.code.copy
+    - content.tables
+
+  palette: 
+    # Palette toggle for light mode
+    - scheme: default
+      primary: deep purple
+      accent: blue
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: deep purple
+      accent: blue
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+  # Logo and favicon
+  logo: assets/images/logo/logo.png
+  favicon: assets/images/logo/favicon.ico
+
+# navigation menu
+nav:
+  - Home: index.md
+
+  #- Non-veg:
+  #  - Chicken:
+  #    - Lemon Chicken: nonveg/genai/onllm.md
+
+  - Veg:
+    - Eggplant:
+      - Eggplant Peanut Gravy: veg/eggplant/eggplant-peanut-masala.md
+
+  - Contact Us: https://dasxplore.com/#contactSec
+repo_url: https://github.com/dasxplore/recipes
+
+# plugins, it can enable offline search i.e. static hosting
+plugins:
+  - search
+  - offline
+  #- privacy
+  - minify:
+      minify_html: true
+
+# extensions
+markdown_extensions:
+  - tables
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+
+# turn off the default made with footer note & add social links
+extra:
+  #generator: false
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/dasxplore/recipes
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/somnath-das-cloud
+
+copyright: Copyright &copy; 2026 dasxplore.com
