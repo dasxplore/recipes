@@ -8,3 +8,5 @@ Welcome to our Recipes website. You can find some easy to prepare, healthy* and 
 ### 🥕 Vegetarian
 
 1. [Eggplant / Brinjal Peanut Masala](./veg/eggplant/eggplant-peanut-masala.md)
+
+### 🍗 Non vegetarian
