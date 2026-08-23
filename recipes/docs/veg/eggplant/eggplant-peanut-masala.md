@@ -1,20 +1,19 @@
 ---
 title: Eggplant Peanut Masala Recipe
 description: A quick & tasty recipe of eggplant (Brinjal) with potato and peanut masala. Enjoy this delicious recipe at home.
-meta:
-  keywords: eggplant recipe, brinjal recipe, tasty brinjal recipe, begun recipe, beguner recipe, veg recipe, vegetarian recipe
-  author: Somnath Das
-  robots: index, follow
-  og:image: https://recipes.dasxplore.com/veg/eggplant/images/eggplantPeanutMasalaFinal.webp
-  og:title: Eggplant Peanut Masala Recipe
-  og:description: A quick & tasty recipe of eggplant (Brinjal) with potato and peanut masala. Enjoy this delicious recipe at home.
-  og:url: https://recipes.dasxplore.com/veg/eggplant/eggplant-peanut-masala.html
-  canonical: https://recipes.dasxplore.com/veg/eggplant/eggplant-peanut-masala.html
-  og:type: article
-  article:author: https://dasxplore.com
-  og:site_name: DasXplore
-  theme-color: "#0f172a"
-  viewport: width=device-width, initial-scale=1.0
+keywords: eggplant recipe, brinjal recipe, tasty brinjal recipe, begun recipe, beguner recipe, veg recipe, vegetarian recipe
+author: Somnath Das
+robots: index, follow
+og:image: https://recipes.dasxplore.com/veg/eggplant/images/eggplantPeanutMasalaFinal.webp
+og:title: Eggplant Peanut Masala Recipe
+og:description: A quick & tasty recipe of eggplant (Brinjal) with potato and peanut masala. Enjoy this delicious recipe at home.
+og:url: https://recipes.dasxplore.com/veg/eggplant/eggplant-peanut-masala.html
+canonical: https://recipes.dasxplore.com/veg/eggplant/eggplant-peanut-masala.html
+og:type: article
+article:author: https://dasxplore.com
+og:site_name: DasXplore
+theme-color: "#0f172a"
+viewport: width=device-width, initial-scale=1.0
 ---
 
 # 🍆 Eggplant Peanut Masala Recipe

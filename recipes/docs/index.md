@@ -1,20 +1,19 @@
 ---
 title: Veg & Non-veg Recipes by DasXplore
 description: Easy to make, healthy homemade recipes. Both veg and non-veg are there.
-meta:
-  keywords: indian recipes, healthy recipe, easy veg recipe, easy non veg recipe, home cooking recipe
-  author: Somnath Das
-  robots: index, follow
-  og:image: https://recipes.dasxplore.com/assets/images/web/homeOgImg.webp
-  og:title: Veg & Non-veg Recipes by DasXplore
-  og:description: Easy to make, healthy homemade recipes. Both veg and non-veg are there.
-  og:url: https://dasxplore.com
-  canonical: https://dasxplore.com
-  og:type: article
-  article:author: https://dasxplore.com
-  og:site_name: DasXplore
-  theme-color: "#0f172a"
-  viewport: width=device-width, initial-scale=1.0
+keywords: indian recipes, healthy recipe, easy veg recipe, easy non veg recipe, home cooking recipe
+author: Somnath Das
+robots: index, follow
+og:image: https://recipes.dasxplore.com/assets/images/web/homeOgImg.webp
+og:title: Veg & Non-veg Recipes by DasXplore
+og:description: Easy to make, healthy homemade recipes. Both veg and non-veg are there.
+og:url: https://dasxplore.com
+canonical: https://dasxplore.com
+og:type: article
+article:author: https://dasxplore.com
+og:site_name: DasXplore
+theme-color: "#0f172a"
+viewport: width=device-width, initial-scale=1.0
 ---
 
 # 🍲 Recipes by DasXplore
