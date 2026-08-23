@@ -59,7 +59,6 @@ plugins:
 markdown_extensions:
   - tables
   - admonition
-  - details
   - pymdownx.highlight:
       anchor_linenums: true
       line_spans: __span
