@@ -9,7 +9,7 @@ meta:
   - name: robots
     content: index, follow
   - property: og:image
-    content: https://recipes.dasxplore.com/veg/eggplant/images/egPeanut1Og.png
+    content: https://recipes.dasxplore.com/assets/images/web/homeOgImg.webp
   - property: og:title
     content: Veg & Non-veg Recipes by DasXplore
   - property: og:description
