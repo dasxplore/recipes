@@ -1,5 +1,6 @@
 # Local ignores
 site/
+test/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

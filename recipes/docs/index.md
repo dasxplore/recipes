@@ -33,7 +33,9 @@ meta:
 # 🍲 Recipes by DasXplore
 Welcome to our Recipes website. You can find some easy to prepare, healthy* and tasty food recipes for both veg & non-veg.
 
-> Note: * healthy can be quite different for different people, please check the ingredients.
+!!! tip "Note"
+
+    * healthy can be quite different for different people, please check the ingredients and process.
 
 ## 📜 Sort-listed recipes
 
