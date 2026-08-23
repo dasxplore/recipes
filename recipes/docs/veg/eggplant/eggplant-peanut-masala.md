@@ -2,32 +2,19 @@
 title: Eggplant Peanut Masala Recipe
 description: A quick & tasty recipe of eggplant (Brinjal) with potato and peanut masala. Enjoy this delicious recipe at home.
 meta:
-  - name: keywords
-    content: eggplant recipe, brinjal recipe, tasty brinjal recipe, begun recipe, beguner recipe, veg recipe, vegetarian recipe
-  - name: author
-    content: Somnath Das
-  - name: robots
-    content: index, follow
-  - property: og:image
-    content: https://recipes.dasxplore.com/veg/eggplant/images/eggplantPeanutMasalaFinal.webp
-  - property: og:title
-    content: Eggplant Peanut Masala Recipe
-  - property: og:description
-    content: A quick & tasty recipe of eggplant (Brinjal) with potato and peanut masala. Enjoy this delicious recipe at home.
-  - property: og:url
-    content: https://recipes.dasxplore.com/veg/eggplant/eggplant-peanut-masala.html
-  - name: canonical
-    content: https://recipes.dasxplore.com/veg/eggplant/eggplant-peanut-masala.html
-  - property: og:type
-    content: article
-  - property: article:author
-    content: https://dasxplore.com/#contactSec
-  - property: og:site_name
-    content: DasXplore
-  - name: theme-color
-    content: "#0f172a"
-  - name: viewport
-    content: width=device-width, initial-scale=1.0
+  keywords: eggplant recipe, brinjal recipe, tasty brinjal recipe, begun recipe, beguner recipe, veg recipe, vegetarian recipe
+  author: Somnath Das
+  robots: index, follow
+  og:image: https://recipes.dasxplore.com/veg/eggplant/images/eggplantPeanutMasalaFinal.webp
+  og:title: Eggplant Peanut Masala Recipe
+  og:description: A quick & tasty recipe of eggplant (Brinjal) with potato and peanut masala. Enjoy this delicious recipe at home.
+  og:url: https://recipes.dasxplore.com/veg/eggplant/eggplant-peanut-masala.html
+  canonical: https://recipes.dasxplore.com/veg/eggplant/eggplant-peanut-masala.html
+  og:type: article
+  article:author: https://dasxplore.com
+  og:site_name: DasXplore
+  theme-color: "#0f172a"
+  viewport: width=device-width, initial-scale=1.0
 ---
 
 # 🍆 Eggplant Peanut Masala Recipe
