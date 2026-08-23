@@ -9,7 +9,7 @@ meta:
   - name: robots
     content: index, follow
   - property: og:image
-    content: https://recipes.dasxplore.com/veg/eggplant/images/egPeanut1Og.png
+    content: https://recipes.dasxplore.com/assets/images/web/homeOgImg.webp
   - property: og:title
     content: Veg & Non-veg Recipes by DasXplore
   - property: og:description
@@ -33,7 +33,9 @@ meta:
 # 🍲 Recipes by DasXplore
 Welcome to our Recipes website. You can find some easy to prepare, healthy* and tasty food recipes for both veg & non-veg.
 
-> Note: * healthy can be quite different for different people, please check the ingredients.
+!!! tip "Note"
+
+    * healthy can be quite different for different people, please check the ingredients and process.
 
 ## 📜 Sort-listed recipes
 

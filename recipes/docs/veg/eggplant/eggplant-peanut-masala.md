@@ -9,7 +9,7 @@ meta:
   - name: robots
     content: index, follow
   - property: og:image
-    content: https://recipes.dasxplore.com/veg/eggplant/images/egPeanut1Og.png
+    content: https://recipes.dasxplore.com/veg/eggplant/images/eggplantPeanutMasalaFinal.webp
   - property: og:title
     content: Eggplant Peanut Masala Recipe
   - property: og:description
@@ -33,6 +33,8 @@ meta:
 # 🍆 Eggplant Peanut Masala Recipe
 A quick & tasty recipe of eggplant (Brinjal) with potato and peanut masala. Enjoy this delicious recipe at home. So, let's get started.
 
+<p align="center"><img width="80%" src="./images/eggplantPeanutMasalaFinal.webp" /></p>
+
 ## 📜 Ingredients
 1. One or two medium size eggplant / brinjal 🍆
 2. One or two medium size potato 🥔
@@ -54,14 +56,20 @@ A quick & tasty recipe of eggplant (Brinjal) with potato and peanut masala. Enjo
 
 * Cut the tomato into small pieces. You can go for really smaller pieces.
 
+  <p><img width="80%" src="./images/eggplantPeanutChooped.webp" /></p>
+
 ### Make a Paste
 Take the roasted peanuts and the poppy-seeds into a mixer grinder, add a little quantity of water. Simple mix well to make a creamy paste.
+
+  <p><img width="80%" src="./images/peanutAndPoppy.webp" /></p>
 
 ### Fry the Vegetables
 
 * First fry the potatos in oil about 50% and take them out in a pot.
 
 * Then fry the brinjal pieces. You can add a pinch of salt here. You need to take them out into a pot before they get mashed as eggplant / brinjal is really soft veg.
+
+  <p><img width="80%" src="./images/friedPotatoEggplant.webp" /></p>
 
 ### Making the full dish
 
@@ -75,9 +83,10 @@ Take the roasted peanuts and the poppy-seeds into a mixer grinder, add a little 
 
 * After that add the fried potatos and the peanut-poppy paste. Stir well and you can change the flame to medium.
 
+  <p><img width="80%" src="./images/peanutPoppyPaste.webp" /></p>
+
 * Once the oil starts to come out, add some water so that the potatoes can be bolied (soften), do not add too much.
 
 * Once potatos are about 80% coocked, add the fried brinjal pieces, mix well. Put it into low flame.
 
-* Finally once it is coocked well, it should be a thick gravy and should be a tasty meal which you can consume with rice or bread (roti).
-
+* Finally once it is coocked well, it should be a thick gravy (as shown at the begining) and should be a tasty meal which you can consume with rice or bread (roti).
