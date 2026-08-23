@@ -1,20 +1,19 @@
 ---
 title: Lemon Chicken Recipe
 description: A quick & tasty recipe of lemon chicken pepper. Enjoy this delicious recipe at home.
-meta:
-  keywords: lemon chicken recipe, tasty chicken recipe, indian chicken recipe, easy chicken recipe
-  author: Somnath Das
-  robots: index, follow
-  og:image: https://recipes.dasxplore.com/veg/eggplant/images/eggplantPeanutMasalaFinal.webp
-  og:title: Lemon Chicken Recipe
-  og:description: A quick & tasty recipe of lemon chicken pepper. Enjoy this delicious recipe at home.
-  og:url: https://recipes.dasxplore.com/nonveg/chicken/lemon-ckicken.html
-  canonical: https://recipes.dasxplore.com/nonveg/chicken/lemon-ckicken.html
-  og:type: article
-  article:author: https://dasxplore.com
-  og:site_name: DasXplore
-  theme-color: "#0f172a"
-  viewport: width=device-width, initial-scale=1.0
+keywords: lemon chicken recipe, tasty chicken recipe, indian chicken recipe, easy chicken recipe
+author: Somnath Das
+robots: index, follow
+og:image: https://recipes.dasxplore.com/veg/eggplant/images/eggplantPeanutMasalaFinal.webp
+og:title: Lemon Chicken Recipe
+og:description: A quick & tasty recipe of lemon chicken pepper. Enjoy this delicious recipe at home.
+og:url: https://recipes.dasxplore.com/nonveg/chicken/lemon-ckicken.html
+canonical: https://recipes.dasxplore.com/nonveg/chicken/lemon-ckicken.html
+og:type: article
+article:author: https://dasxplore.com
+og:site_name: DasXplore
+theme-color: "#0f172a"
+viewport: width=device-width, initial-scale=1.0
 ---
 
 # 🍗 Lemon Chicken Recipe
