@@ -11,7 +11,7 @@ og:url: https://recipes.dasxplore.com/nonveg/chicken/lemon-ckicken.html
 canonical: https://recipes.dasxplore.com/nonveg/chicken/lemon-ckicken.html
 og:type: article
 article:author: https://dasxplore.com
-og:site_name: DasXplore
+og:site_name: DasXplore Recipes
 theme-color: "#0f172a"
 viewport: width=device-width, initial-scale=1.0
 ---
