@@ -38,6 +38,7 @@ nav:
 
   - Non-veg:
     - Chicken:
+      - Chicken Maharani: nonveg/chicken/chicken-maharani.md
       - Lemon Chicken: nonveg/chicken/lemon-ckicken.md
 
   - Veg:

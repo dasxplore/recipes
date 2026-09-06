@@ -31,4 +31,4 @@ Welcome to our Recipes website. You can find some easy to prepare, healthy* and 
 
 ### 🍗 Non vegetarian
 
-2. [Lemon Chicken Recipe](./nonveg/chicken/lemon-ckicken.md)
+2. [Chicken Maharani Recipe](./nonveg/chicken/chicken-maharani.md)
