@@ -11,7 +11,7 @@ og:url: https://dasxplore.com
 canonical: https://dasxplore.com
 og:type: article
 article:author: https://dasxplore.com
-og:site_name: DasXplore
+og:site_name: DasXplore Recipes
 theme-color: "#0f172a"
 viewport: width=device-width, initial-scale=1.0
 ---
@@ -31,4 +31,4 @@ Welcome to our Recipes website. You can find some easy to prepare, healthy* and 
 
 ### 🍗 Non vegetarian
 
-2. [Lemon Chicken Recipe](./nonveg/chicken/lemon-ckicken.md)
+2. [Chicken Maharani Recipe](./nonveg/chicken/chicken-maharani.md)

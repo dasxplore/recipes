@@ -45,6 +45,16 @@ jobs:
           ls -lah
           deactivate
 
+      - name: Py HTML Update
+        id: 'py-html-update'
+        run: |
+          cd ./recipes/pyHtmlUpdater
+          python -m venv .venv
+          source .venv/bin/activate
+          pip install -r requirements.txt
+          python handleMeta.py
+          deactivate
+
       - name: Setup Pages
         uses: actions/configure-pages@v5
 

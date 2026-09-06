@@ -4,23 +4,23 @@ description: A quick & tasty recipe of lemon chicken pepper. Enjoy this deliciou
 keywords: lemon chicken recipe, tasty chicken recipe, indian chicken recipe, easy chicken recipe
 author: Somnath Das
 robots: index, follow
-og:image: https://recipes.dasxplore.com/veg/eggplant/images/eggplantPeanutMasalaFinal.webp
+og:image: ''
 og:title: Lemon Chicken Recipe
 og:description: A quick & tasty recipe of lemon chicken pepper. Enjoy this delicious recipe at home.
 og:url: https://recipes.dasxplore.com/nonveg/chicken/lemon-ckicken.html
 canonical: https://recipes.dasxplore.com/nonveg/chicken/lemon-ckicken.html
 og:type: article
 article:author: https://dasxplore.com
-og:site_name: DasXplore
+og:site_name: DasXplore Recipes
 theme-color: "#0f172a"
 viewport: width=device-width, initial-scale=1.0
 ---
 
-# 🍗 Lemon Chicken Recipe
+# 🍗 Lemon Chicken Recipe 🍋‍🟩
 This is really easy to cook, tasty chicken recipe which you can try at home. You won't need huge list of items for this. So, let's do this.
 
 ## 📜 Ingredients
-You can change the proportion as per you need. Here `tbsp` is table spoon and `tsp` is tea spoon.
+You can change the proportion as per your need. Here `tbsp` is table spoon and `tsp` is tea spoon.
 
 1. Chicken: 1kg
 2. Curd or Yogurt: 200gm
