@@ -44,6 +44,8 @@ nav:
   - Veg:
     - Eggplant:
       - Eggplant Peanut Gravy: veg/eggplant/eggplant-peanut-masala.md
+    - Rice:
+      - Bhoger Khichuri: veg/rice/bhog-khichuri.md
 
   - Contact Us: https://dasxplore.com/#contactSec
 repo_url: https://github.com/dasxplore/recipes
