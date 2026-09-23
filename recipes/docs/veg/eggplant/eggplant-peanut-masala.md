@@ -22,6 +22,8 @@ A quick & tasty recipe of eggplant (Brinjal) with potato and peanut masala. Enjo
 <p align="center"><img width="80%" src="./images/eggplantPeanutMasalaFinal.webp" /></p>
 
 ## 📜 Ingredients
+You can change the proportion as per your need. Here `tbsp` is table spoon and `tsp` is tea spoon.
+
 1. One or two medium size eggplant / brinjal 🍆
 2. One or two medium size potato 🥔
 3. One medium size onion 🧅
